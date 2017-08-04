@@ -19,7 +19,7 @@ Optional
 강의자료
 -------------------
 
-[1강: Deep Learning & PyTorch](https://github.com/GunhoChoi/PyTorch_FastCampus/blob/master/01_DL%26Pytorch/%EB%94%A5%EB%9F%AC%EB%8B%9D%26%ED%8C%8C%EC%9D%B4%ED%86%A0%EC%B9%98.pdf)
+1강.[Deep Learning & PyTorch](https://github.com/GunhoChoi/PyTorch_FastCampus/blob/master/01_DL%26Pytorch/%EB%94%A5%EB%9F%AC%EB%8B%9D%26%ED%8C%8C%EC%9D%B4%ED%86%A0%EC%B9%98.pdf)
 
 [2강: Linear Regression & Neural Network](https://github.com/GunhoChoi/PyTorch_FastCampus/blob/master/02_Regression%26NN/Regression%26NN.pdf)
 
