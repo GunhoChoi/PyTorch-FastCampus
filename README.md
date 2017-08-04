@@ -45,11 +45,11 @@ Optional
 
 4) [선형회귀모델의 한계](https://github.com/GunhoChoi/PyTorch_FastCampus/blob/master/02_Regression%26NN/0_Linear_code/2_linear_nonlinear.ipynb)
 
-5) [인공신경망 모델-1](https://github.com/GunhoChoi/PyTorch_FastCampus/blob/master/02_Regression%26NN/1_NN_code/1d_data/0_neural_quadratic.ipynb)
+5) [인공신경망 모델 - 2차함수근사](https://github.com/GunhoChoi/PyTorch_FastCampus/blob/master/02_Regression%26NN/1_NN_code/1d_data/0_neural_quadratic.ipynb)
 
-6) [인공신경망 모델-2](https://github.com/GunhoChoi/PyTorch_FastCampus/blob/master/02_Regression%26NN/1_NN_code/1d_data/1_neural_cubic.ipynb)
+6) [인공신경망 모델 - 3차함수근사](https://github.com/GunhoChoi/PyTorch_FastCampus/blob/master/02_Regression%26NN/1_NN_code/1d_data/1_neural_cubic.ipynb)
 
-7) [인공신경망 모델-3](https://github.com/GunhoChoi/PyTorch_FastCampus/blob/master/02_Regression%26NN/1_NN_code/2d_data/neural_2d.ipynb)
+7) [인공신경망 모델 - 2D데이터](https://github.com/GunhoChoi/PyTorch_FastCampus/blob/master/02_Regression%26NN/1_NN_code/2d_data/neural_2d.ipynb)
 
 ## 3강 [Convolutional Neural Network - Basic](https://github.com/GunhoChoi/PyTorch_FastCampus/blob/master/03_CNN_Basics/%5B%ED%8C%A8%EC%8A%A4%ED%8A%B8%EC%BA%A0%ED%8D%BC%EC%8A%A4%5D%20PyTorch%EB%A1%9C%20%EC%8B%9C%EC%9E%91%ED%95%98%EB%8A%94%20%EB%94%A5%EB%9F%AC%EB%8B%9D%20%EC%9E%85%EB%AC%B8%20CAMP_3%ED%9A%8C%EC%B0%A8.pdf)
 
