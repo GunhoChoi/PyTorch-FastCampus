@@ -18,17 +18,13 @@ Optional
 
 강의자료
 --------------------------
-## 1강
-
-[Deep Learning & PyTorch](https://github.com/GunhoChoi/PyTorch_FastCampus/blob/master/01_DL%26Pytorch/%EB%94%A5%EB%9F%AC%EB%8B%9D%26%ED%8C%8C%EC%9D%B4%ED%86%A0%EC%B9%98.pdf)
+## 1강 [Deep Learning & PyTorch](https://github.com/GunhoChoi/PyTorch_FastCampus/blob/master/01_DL%26Pytorch/%EB%94%A5%EB%9F%AC%EB%8B%9D%26%ED%8C%8C%EC%9D%B4%ED%86%A0%EC%B9%98.pdf)
 
 1-1) [프레임워크 비교](https://github.com/GunhoChoi/PyTorch_FastCampus/blob/master/01_DL%26Pytorch/codes/0_Framework_Comparison.ipynb)
 
 1-2) [파이토치 기본 사용법](https://github.com/GunhoChoi/PyTorch_FastCampus/blob/master/01_DL%26Pytorch/codes/1_pytorch_tensor_basic.ipynb)
 
-## 2강
-
-[Linear Regression & Neural Network](https://github.com/GunhoChoi/PyTorch_FastCampus/blob/master/02_Regression%26NN/Regression%26NN.pdf)
+## 2강 [Linear Regression & Neural Network](https://github.com/GunhoChoi/PyTorch_FastCampus/blob/master/02_Regression%26NN/Regression%26NN.pdf)
 
 2-1) [Automatic Gradient Calculation](https://github.com/GunhoChoi/PyTorch_FastCampus/blob/master/02_Regression%26NN/0_Linear_code/0_Variable_Autograd.ipynb)
 
@@ -44,26 +40,22 @@ Optional
 
 2-7) [인공신경망 모델-3](https://github.com/GunhoChoi/PyTorch_FastCampus/blob/master/02_Regression%26NN/1_NN_code/2d_data/neural_2d.ipynb)
 
-## 3강
+## 3강 [Convolutional Neural Network - Basic](https://github.com/GunhoChoi/PyTorch_FastCampus/blob/master/03_CNN_Basics/%5B%ED%8C%A8%EC%8A%A4%ED%8A%B8%EC%BA%A0%ED%8D%BC%EC%8A%A4%5D%20PyTorch%EB%A1%9C%20%EC%8B%9C%EC%9E%91%ED%95%98%EB%8A%94%20%EB%94%A5%EB%9F%AC%EB%8B%9D%20%EC%9E%85%EB%AC%B8%20CAMP_3%ED%9A%8C%EC%B0%A8.pdf)
 
-[Convolutional Neural Network - Basic](https://github.com/GunhoChoi/PyTorch_FastCampus/blob/master/03_CNN_Basics/%5B%ED%8C%A8%EC%8A%A4%ED%8A%B8%EC%BA%A0%ED%8D%BC%EC%8A%A4%5D%20PyTorch%EB%A1%9C%20%EC%8B%9C%EC%9E%91%ED%95%98%EB%8A%94%20%EB%94%A5%EB%9F%AC%EB%8B%9D%20%EC%9E%85%EB%AC%B8%20CAMP_3%ED%9A%8C%EC%B0%A8.pdf)
+3-1) [CNN 기본 모듈](https://github.com/GunhoChoi/PyTorch_FastCampus/blob/master/03_CNN_Basics/0_MNIST/0_Basic_Modules.ipynb)
 
-3-1 [CNN 기본 모듈](https://github.com/GunhoChoi/PyTorch_FastCampus/blob/master/03_CNN_Basics/0_MNIST/0_Basic_Modules.ipynb)
+3-2) [NN으로 MNIST 풀어보기](https://github.com/GunhoChoi/PyTorch_FastCampus/blob/master/03_CNN_Basics/0_MNIST/1_Linear_mnist.ipynb)
 
-3-2 [NN으로 MNIST 풀어보기](https://github.com/GunhoChoi/PyTorch_FastCampus/blob/master/03_CNN_Basics/0_MNIST/1_Linear_mnist.ipynb)
+3-3) [CNN으로 MNIST 풀어보기](https://github.com/GunhoChoi/PyTorch_FastCampus/blob/master/03_CNN_Basics/0_MNIST/3_CNN_clean.ipynb)
 
-3-3 [CNN으로 MNIST 풀어보기](https://github.com/GunhoChoi/PyTorch_FastCampus/blob/master/03_CNN_Basics/0_MNIST/3_CNN_clean.ipynb)
+3-4) [CNN으로 CIFAR10 풀어보기](https://github.com/GunhoChoi/PyTorch_FastCampus/blob/master/03_CNN_Basics/1_CIFAR/CNN_CIFAR10.ipynb)
 
-3-4 [CNN으로 CIFAR10 풀어보기](https://github.com/GunhoChoi/PyTorch_FastCampus/blob/master/03_CNN_Basics/1_CIFAR/CNN_CIFAR10.ipynb)
+## 4강 [Convolutional Neural Network - Advanced](https://github.com/GunhoChoi/PyTorch_FastCampus/blob/master/04_CNN_Advanced/CNN_Advanced.pdf) 
 
-## 4강
+4-1) [Custom Data 불러오기](https://github.com/GunhoChoi/PyTorch_FastCampus/blob/master/04_CNN_Advanced/0_Custom_DataLoader.ipynb)
 
-[Convolutional Neural Network - Advanced](https://github.com/GunhoChoi/PyTorch_FastCampus/blob/master/04_CNN_Advanced/CNN_Advanced.pdf) 
+4-2) [VGGNet](https://github.com/GunhoChoi/PyTorch_FastCampus/blob/master/04_CNN_Advanced/1_VGGNet.ipynb)
 
-4-1 [Custom Data 불러오기](https://github.com/GunhoChoi/PyTorch_FastCampus/blob/master/04_CNN_Advanced/0_Custom_DataLoader.ipynb)
+4-3) [GoogLeNet](https://github.com/GunhoChoi/PyTorch_FastCampus/blob/master/04_CNN_Advanced/2_GoogleNet.ipynb)
 
-4-2 [VGGNet](https://github.com/GunhoChoi/PyTorch_FastCampus/blob/master/04_CNN_Advanced/1_VGGNet.ipynb)
-
-4-3 [GoogLeNet](https://github.com/GunhoChoi/PyTorch_FastCampus/blob/master/04_CNN_Advanced/2_GoogleNet.ipynb)
-
-4-4 [ResNet](https://github.com/GunhoChoi/PyTorch_FastCampus/blob/master/04_CNN_Advanced/3_ResNet.ipynb)
+4-4) [ResNet](https://github.com/GunhoChoi/PyTorch_FastCampus/blob/master/04_CNN_Advanced/3_ResNet.ipynb)
