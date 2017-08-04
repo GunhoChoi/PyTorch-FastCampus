@@ -18,6 +18,14 @@ Optional
 --------------------------
 - visdom (https://github.com/facebookresearch/visdom)
 
+설치방법 [PyTorch & Jupyter Notebook](https://github.com/GunhoChoi/PyTorch_FastCampus/blob/master/01_DL%26Pytorch/PyTorch_AWS%EC%84%A4%EC%B9%98.pdf)
+-------------------------------------
+- AWS p2.xlarge(Tesla K80 GPU)
+- CUDA 8.0
+- CuDNN 5.1
+- Anaconda
+- PyTorch
+- Jupyter Notebook
 
 강의자료
 --------------------------
