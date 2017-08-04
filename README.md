@@ -1,4 +1,9 @@
-# FastCampus
+<p align="center">
+<img src="./logo/PyTorch.jpg" width="60%">
+</p>
+
+
+# PyTorch FastCampus
 
 PyTorch로 시작하는 딥러닝 입문 CAMP (www.fastcampus.co.kr/data_camp_pytorch/) 1기 강의자료
 
