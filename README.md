@@ -1,5 +1,5 @@
 <p align="center">
-<img src="./logo/PyTorch.jpg" width="60%">
+<img src="./data_camp_pytorch.png" width="60%">
 </p>
 
 
