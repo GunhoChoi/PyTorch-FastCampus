@@ -70,3 +70,17 @@ Optional
 3) [GoogLeNet 구현해보기](https://github.com/GunhoChoi/PyTorch_FastCampus/blob/master/04_CNN_Advanced/2_GoogleNet.ipynb)
 
 4) [ResNet 구현해보기](https://github.com/GunhoChoi/PyTorch_FastCampus/blob/master/04_CNN_Advanced/3_ResNet.ipynb)
+
+## 5강 [Recurrent Neural Network - Basic](https://github.com/GunhoChoi/PyTorch_FastCampus/blob/master/05_RNN/RNN.pdf)
+
+1) [RNN 직접 만들어보기](https://github.com/GunhoChoi/PyTorch_FastCampus/blob/master/05_RNN/0_Basic/Simple_Char_RNNcell.ipynb)
+
+2) [LSTM 튜토리얼](https://github.com/GunhoChoi/PyTorch_FastCampus/blob/master/05_RNN/1_LSTM/0_LSTM_Practice.ipynb)
+
+3) [LSTM으로 문장 기억하기](https://github.com/GunhoChoi/PyTorch_FastCampus/blob/master/05_RNN/1_LSTM/1_Char_LSTM.ipynb)
+
+4) [Shakespeare 문체 모방하기-RNN](https://github.com/GunhoChoi/PyTorch_FastCampus/blob/master/05_RNN/2_Char_RNN/0_Char_RNN_Naive.ipynb)
+
+5) [Shakespeare 문체 모방하기-GRU](https://github.com/GunhoChoi/PyTorch_FastCampus/blob/master/05_RNN/2_Char_RNN/1_Char_RNN_GRU.ipynb)
+
+6) [Shakespeare 문체 모방하기-LSTM](https://github.com/GunhoChoi/PyTorch_FastCampus/blob/master/05_RNN/2_Char_RNN/2_Char_RNN_LSTM.ipynb)
