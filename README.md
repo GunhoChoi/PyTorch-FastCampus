@@ -96,7 +96,7 @@ Optional
 3) [Data Augmentation](https://github.com/GunhoChoi/PyTorch_FastCampus/blob/master/06_Prob%26Solutions/2_Data_Augmentation.ipynb)
 
 4) [Weight Initialization](https://github.com/GunhoChoi/PyTorch_FastCampus/blob/master/06_Prob%26Solutions/3_Weight_Initialization.ipynb)
-강
+
 5) [Learning Rate Scheduler](https://github.com/GunhoChoi/PyTorch_FastCampus/blob/master/06_Prob%26Solutions/4_Learning_Rate_Decay.ipynb)
 
 6) [Data Normalization](https://github.com/GunhoChoi/PyTorch_FastCampus/blob/master/06_Prob%26Solutions/5_Data_Normalization.ipynb)
