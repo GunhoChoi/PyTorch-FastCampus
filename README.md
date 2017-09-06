@@ -112,3 +112,17 @@ Optional
 2) [Style Transfer](https://github.com/GunhoChoi/PyTorch_FastCampus/blob/master/07_Transfer_Learning/1_StyleTransfer/StyleTransfer_LBFGS_gpu.ipynb)
 
 3) [t-SNE Visualization](https://github.com/GunhoChoi/PyTorch_FastCampus/blob/master/07_Transfer_Learning/2_T-SNE/Style_TSNE.ipynb)
+
+## 8강 [AutoEncoder & Transposed Convolution](https://github.com/GunhoChoi/PyTorch_FastCampus/blob/master/08_Autoencoder/AutoEncoder.pdf)
+
+1) [Basic Autoencoder](https://github.com/GunhoChoi/PyTorch_FastCampus/blob/master/08_Autoencoder/0_Basic_Autoencoder.ipynb)
+
+2) [Embedding Vector는 어떻게 분포하고 있을까?](https://github.com/GunhoChoi/PyTorch_FastCampus/blob/master/08_Autoencoder/5_Basic_Autoencoder_TSNE.ipynb)
+
+3) [Convolutional Autoencoder](https://github.com/GunhoChoi/PyTorch_FastCampus/blob/master/08_Autoencoder/1_Convolutional_Autoencoder.ipynb)
+
+4) [Convolutional Denoising Autoencoder](https://github.com/GunhoChoi/PyTorch_FastCampus/blob/master/08_Autoencoder/2_Convolutional_Denoising_Autoencoder.ipynb)
+
+5) [Variational Autoencoder](https://github.com/GunhoChoi/PyTorch_FastCampus/blob/master/08_Autoencoder/3_Variational_Autoencoder.ipynb)
+
+6 [Convolutional Variational Autoencoder](https://github.com/GunhoChoi/PyTorch_FastCampus/blob/master/08_Autoencoder/4_Convolutional_Variational_Autoencoder.ipynb)
