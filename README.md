@@ -126,3 +126,11 @@ Optional
 5) [Variational Autoencoder](https://github.com/GunhoChoi/PyTorch_FastCampus/blob/master/08_Autoencoder/3_Variational_Autoencoder.ipynb)
 
 6) [Convolutional Variational Autoencoder](https://github.com/GunhoChoi/PyTorch_FastCampus/blob/master/08_Autoencoder/4_Convolutional_Variational_Autoencoder.ipynb)
+
+## 9강 [Generative Adversarial Networks](https://github.com/GunhoChoi/PyTorch-FastCampus/blob/master/09_GAN/GAN(generative%20adversarial%20networks).pdf)
+
+1) [Basic GAN Model with NN](https://github.com/GunhoChoi/PyTorch-FastCampus/tree/master/09_GAN/0_GAN)
+
+2) [DCGAN](https://github.com/GunhoChoi/PyTorch-FastCampus/tree/master/09_GAN/1_DCGAN)
+
+3) [InfoGAN](https://github.com/GunhoChoi/PyTorch-FastCampus/tree/master/09_GAN/2_InfoGAN)
