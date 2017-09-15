@@ -119,11 +119,11 @@ Optional
 
 2) [Embedding Vector는 어떻게 분포하고 있을까?(돌아온 t-SNE)](https://github.com/GunhoChoi/PyTorch_FastCampus/blob/master/08_Autoencoder/5_Basic_Autoencoder_TSNE.ipynb)
 
-3) [Convolutional Autoencoder = CNN + Autoencoder](https://github.com/GunhoChoi/PyTorch_FastCampus/blob/master/08_Autoencoder/1_Convolutional_Autoencoder.ipynb)
+3) [Convolutional Autoencoder (CNN + Autoencoder)](https://github.com/GunhoChoi/PyTorch_FastCampus/blob/master/08_Autoencoder/1_Convolutional_Autoencoder.ipynb)
 
-4) [Convolutional Denoising Autoencoder = Noise + CNN + Autoencoder](https://github.com/GunhoChoi/PyTorch_FastCampus/blob/master/08_Autoencoder/2_Convolutional_Denoising_Autoencoder.ipynb)
+4) [Convolutional Denoising Autoencoder (Noise + CNN + Autoencoder)](https://github.com/GunhoChoi/PyTorch_FastCampus/blob/master/08_Autoencoder/2_Convolutional_Denoising_Autoencoder.ipynb)
 
-5) [Variational Autoencoder = latent vector z~N(0,I)](https://github.com/GunhoChoi/PyTorch_FastCampus/blob/master/08_Autoencoder/3_Variational_Autoencoder.ipynb)
+5) [Variational Autoencoder (latent vector z~N(0,I))](https://github.com/GunhoChoi/PyTorch_FastCampus/blob/master/08_Autoencoder/3_Variational_Autoencoder.ipynb)
 
 6) [Convolutional Variational Autoencoder](https://github.com/GunhoChoi/PyTorch_FastCampus/blob/master/08_Autoencoder/4_Convolutional_Variational_Autoencoder.ipynb)
 
@@ -131,6 +131,6 @@ Optional
 
 1) [Basic GAN using NN](https://github.com/GunhoChoi/PyTorch-FastCampus/tree/master/09_GAN/0_GAN)
 
-2) [DCGAN = CNN + GAN](https://github.com/GunhoChoi/PyTorch-FastCampus/tree/master/09_GAN/1_DCGAN)
+2) [DCGAN (CNN + GAN)](https://github.com/GunhoChoi/PyTorch-FastCampus/tree/master/09_GAN/1_DCGAN)
 
-3) [InfoGAN = Mutual Information Maximizing + GAN](https://github.com/GunhoChoi/PyTorch-FastCampus/tree/master/09_GAN/2_InfoGAN)
+3) [InfoGAN (Mutual Information Maximizing + GAN)](https://github.com/GunhoChoi/PyTorch-FastCampus/tree/master/09_GAN/2_InfoGAN)
