@@ -107,7 +107,7 @@ Optional
 
 ## 7강 [Transfer Learning](https://github.com/GunhoChoi/PyTorch_FastCampus/blob/master/07_Transfer_Learning/Transfer_Learning.pdf)
 
-1) [Transfer Learning Basic 학습된 모델에서 원하는 부분만 사용하고 학습시키기](https://github.com/GunhoChoi/PyTorch_FastCampus/blob/master/07_Transfer_Learning/0_Pretrained_Basic/Transfer_Learning.ipynb)
+1) [Transfer Learning Basic 학습된 모델에서 원하는 부분만 뽑아내고 학습시키기](https://github.com/GunhoChoi/PyTorch_FastCampus/blob/master/07_Transfer_Learning/0_Pretrained_Basic/Transfer_Learning.ipynb)
 
 2) [Style Transfer 명화의 그림체 모방하기](https://github.com/GunhoChoi/PyTorch_FastCampus/blob/master/07_Transfer_Learning/1_StyleTransfer/StyleTransfer_LBFGS_gpu.ipynb)
 
