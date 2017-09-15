@@ -107,11 +107,11 @@ Optional
 
 ## 7강 [Transfer Learning](https://github.com/GunhoChoi/PyTorch_FastCampus/blob/master/07_Transfer_Learning/Transfer_Learning.pdf)
 
-1) [Transfer Learning Basic (=학습된 모델에서 원하는 부분만 사용하고 학습시키기)](https://github.com/GunhoChoi/PyTorch_FastCampus/blob/master/07_Transfer_Learning/0_Pretrained_Basic/Transfer_Learning.ipynb)
+1) [Transfer Learning Basic 학습된 모델에서 원하는 부분만 사용하고 학습시키기](https://github.com/GunhoChoi/PyTorch_FastCampus/blob/master/07_Transfer_Learning/0_Pretrained_Basic/Transfer_Learning.ipynb)
 
-2) [Style Transfer (=명화의 그림체 모방하기)](https://github.com/GunhoChoi/PyTorch_FastCampus/blob/master/07_Transfer_Learning/1_StyleTransfer/StyleTransfer_LBFGS_gpu.ipynb)
+2) [Style Transfer 명화의 그림체 모방하기](https://github.com/GunhoChoi/PyTorch_FastCampus/blob/master/07_Transfer_Learning/1_StyleTransfer/StyleTransfer_LBFGS_gpu.ipynb)
 
-3) [t-SNE Visualization (=뽑아낸 스타일들이 어떻게 분포하는지 확인해보기)](https://github.com/GunhoChoi/PyTorch_FastCampus/blob/master/07_Transfer_Learning/2_T-SNE/Style_TSNE.ipynb)
+3) [t-SNE Visualization 뽑아낸 스타일들이 어떻게 분포하는지 확인해보기](https://github.com/GunhoChoi/PyTorch_FastCampus/blob/master/07_Transfer_Learning/2_T-SNE/Style_TSNE.ipynb)
 
 ## 8강 [AutoEncoder & Transposed Convolution](https://github.com/GunhoChoi/PyTorch_FastCampus/blob/master/08_Autoencoder/AutoEncoder.pdf)
 
@@ -119,11 +119,11 @@ Optional
 
 2) [Embedding Vector는 어떻게 분포하고 있을까?(돌아온 t-SNE)](https://github.com/GunhoChoi/PyTorch_FastCampus/blob/master/08_Autoencoder/5_Basic_Autoencoder_TSNE.ipynb)
 
-3) [Convolutional Autoencoder (=컨볼루션 연산 + 오토인코더)](https://github.com/GunhoChoi/PyTorch_FastCampus/blob/master/08_Autoencoder/1_Convolutional_Autoencoder.ipynb)
+3) [Convolutional Autoencoder = 컨볼루션 연산 + 오토인코더](https://github.com/GunhoChoi/PyTorch_FastCampus/blob/master/08_Autoencoder/1_Convolutional_Autoencoder.ipynb)
 
-4) [Convolutional Denoising Autoencoder (=노이즈가 추가로 들어가면 어떻게 학습될까)](https://github.com/GunhoChoi/PyTorch_FastCampus/blob/master/08_Autoencoder/2_Convolutional_Denoising_Autoencoder.ipynb)
+4) [Convolutional Denoising Autoencoder = 노이즈가 추가로 들어가면 어떻게 학습될까](https://github.com/GunhoChoi/PyTorch_FastCampus/blob/master/08_Autoencoder/2_Convolutional_Denoising_Autoencoder.ipynb)
 
-5) [Variational Autoencoder (=latent vector z가 특정분포 따르도록 학습시켜보자)](https://github.com/GunhoChoi/PyTorch_FastCampus/blob/master/08_Autoencoder/3_Variational_Autoencoder.ipynb)
+5) [Variational Autoencoder = latent vector z가 특정분포 따르도록 학습시켜보자](https://github.com/GunhoChoi/PyTorch_FastCampus/blob/master/08_Autoencoder/3_Variational_Autoencoder.ipynb)
 
 6) [Convolutional Variational Autoencoder](https://github.com/GunhoChoi/PyTorch_FastCampus/blob/master/08_Autoencoder/4_Convolutional_Variational_Autoencoder.ipynb)
 
@@ -131,6 +131,6 @@ Optional
 
 1) [Basic GAN using NN](https://github.com/GunhoChoi/PyTorch-FastCampus/tree/master/09_GAN/0_GAN)
 
-2) [DCGAN (=컨볼루션 + GAN)](https://github.com/GunhoChoi/PyTorch-FastCampus/tree/master/09_GAN/1_DCGAN)
+2) [DCGAN = 컨볼루션 + GAN](https://github.com/GunhoChoi/PyTorch-FastCampus/tree/master/09_GAN/1_DCGAN)
 
-3) [InfoGAN (=Mutual Information Maximizing + GAN)](https://github.com/GunhoChoi/PyTorch-FastCampus/tree/master/09_GAN/2_InfoGAN)
+3) [InfoGAN = Mutual Information Maximizing + GAN](https://github.com/GunhoChoi/PyTorch-FastCampus/tree/master/09_GAN/2_InfoGAN)
