@@ -134,3 +134,5 @@ Optional
 2) [DCGAN (CNN + GAN)](https://github.com/GunhoChoi/PyTorch-FastCampus/tree/master/09_GAN/1_DCGAN)
 
 3) [InfoGAN (Mutual Information Maximizing + GAN)](https://github.com/GunhoChoi/PyTorch-FastCampus/tree/master/09_GAN/2_InfoGAN)
+
+## 10강 [Deep Learning Applications](https://github.com/GunhoChoi/PyTorch-FastCampus/blob/master/10_Applications/Deep%20Learning%20Applications.pdf)
