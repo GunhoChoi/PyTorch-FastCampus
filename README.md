@@ -127,6 +127,8 @@ Optional
 
 6) [Convolutional Variational Autoencoder](https://github.com/GunhoChoi/PyTorch_FastCampus/blob/master/08_Autoencoder/4_Convolutional_Variational_Autoencoder.ipynb)
 
+7) [Convolutional VAE Latent Space Interpolation](https://github.com/GunhoChoi/PyTorch-FastCampus/blob/master/08_Autoencoder/4-1_Convolutional_Variational_Autoencoder_Interpolation.ipynb)
+
 ## 9강 [Generative Adversarial Networks](https://github.com/GunhoChoi/PyTorch-FastCampus/blob/master/09_GAN/GAN(generative%20adversarial%20networks).pdf)
 
 1) [Basic GAN using NN](https://github.com/GunhoChoi/PyTorch-FastCampus/tree/master/09_GAN/0_GAN)
