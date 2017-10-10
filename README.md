@@ -33,9 +33,9 @@ Optional
 
 1) [파이썬 기초](https://github.com/GunhoChoi/PyTorch-FastCampus/blob/master/01_DL%26Pytorch/0_Python_Tutorial.ipynb)
 
-2) [프레임워크 비교](https://github.com/GunhoChoi/PyTorch_FastCampus/blob/master/01_DL%26Pytorch/codes/1_Framework_Comparison.ipynb)
+2) [프레임워크 비교](https://github.com/GunhoChoi/PyTorch-FastCampus/blob/master/01_DL%26Pytorch/1_Framework_Comparison.ipynb)
 
-3) [파이토치 기본 사용법](https://github.com/GunhoChoi/PyTorch_FastCampus/blob/master/01_DL%26Pytorch/codes/2_pytorch_tensor_basic.ipynb)
+3) [파이토치 기본 사용법](https://github.com/GunhoChoi/PyTorch-FastCampus/blob/master/01_DL%26Pytorch/2_pytorch_tensor_basic.ipynb)
 
 ## 2강 [Linear Regression & Neural Network](https://github.com/GunhoChoi/PyTorch_FastCampus/blob/master/02_Regression%26NN/Regression%26NN.pdf)
 
