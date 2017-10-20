@@ -23,7 +23,7 @@ Optional
 - AWS p2.xlarge(Tesla K80 GPU)
 - CUDA 8.0
 - CuDNN 5.1
-- Anaconda
+- Anaconda(https://mirrors.tuna.tsinghua.edu.cn/anaconda/archive/)
 - PyTorch
 - Jupyter Notebook
 
