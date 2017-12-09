@@ -115,7 +115,7 @@ Optional
 
 3) [t-SNE Visualization 뽑아낸 스타일들이 어떻게 분포하는지 확인해보기](https://github.com/GunhoChoi/PyTorch_FastCampus/blob/master/07_Transfer_Learning/2_T-SNE/Style_TSNE.ipynb)
 
-## 8강 [AutoEncoder & Transposed Convolution](https://github.com/GunhoChoi/PyTorch_FastCampus/blob/master/08_Autoencoder/AutoEncoder.pdf)
+## 8강 [AutoEncoder & Transposed Convolution](https://github.com/GunhoChoi/PyTorch-FastCampus/blob/master/08_Autoencoder/%5B2%EA%B8%B0%5DAutoEncoder.pdf)
 
 1) [Basic Autoencoder](https://github.com/GunhoChoi/PyTorch_FastCampus/blob/master/08_Autoencoder/0_Basic_Autoencoder.ipynb)
 
