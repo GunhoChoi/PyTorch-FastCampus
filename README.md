@@ -1,6 +1,6 @@
 # PyTorch FastCampus
 
-PyTorch로 시작하는 딥러닝 입문 CAMP (www.fastcampus.co.kr/data_camp_pytorch/) 1기 강의자료
+PyTorch로 시작하는 딥러닝 입문 CAMP (www.fastcampus.co.kr/data_camp_pytorch/) 1,2기 강의자료
 
 <p align="center">
 <img src="./data_camp_pytorch.png" width="60%">
