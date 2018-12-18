@@ -9,7 +9,7 @@ PyTorch로 시작하는 딥러닝 입문 CAMP (www.fastcampus.co.kr/data_camp_py
 Requirements
 -------------------------
 - python 3.6
-- Pytorch (http://pytorch.org/)
+- Pytorch 0.3.1 (http://pytorch.org/)
 - Numpy
 - matplotlib
 
